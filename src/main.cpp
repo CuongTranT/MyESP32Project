@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#define pin mode 25
+#define pin mode 26
 void setup() {
   Serial.begin(115200);
   pinMode(2, OUTPUT);
